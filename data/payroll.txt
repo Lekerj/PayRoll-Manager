@@ -1,0 +1,23 @@
+101 John Doe 40 20.50
+102 Jane Smith 35 18.75
+103 Michael Johnson 45 22.00
+ABC12 John 20.0 -10.00
+104 Sarah Lee 38 17.00
+105 Robert Brown 50 25.00
+106 Alice White -40 21.50
+107 Tom Black 42 30.00
+108 Emily Green 37 16.50
+109 Daniel King 41 -19.00
+110 Jessica Moore 39 15.75
+111 Adam West 40 25.25
+112 Eva Adams 30 14.00
+113 Mark Stone -35 22.75
+114 Lucy Hall 44 26.00
+115 Invalid One 40 XX
+116 Jason Blue 37 17.25
+117 Negative Wage 36  -15.75
+118 TooLowWage 35 13.00
+119 MissingHours John Doe 18.50
+120 Correct Entry 40 21.50
+121 BlankField 40
+122 NoID Jane Doe 38 19.00

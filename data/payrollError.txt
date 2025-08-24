@@ -1,0 +1,11 @@
+ABC12 John 20.0 -10.00
+106 Alice White -40 21.50
+109 Daniel King 41 -19.00
+112 Eva Adams 30 14.00
+113 Mark Stone -35 22.75
+115 Invalid One 40 XX
+117 Negative Wage 36  -15.75
+118 TooLowWage 35 13.00
+119 MissingHours John Doe 18.50
+121 BlankField 40
+122 NoID Jane Doe 38 19.00
