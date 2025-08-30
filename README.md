@@ -125,13 +125,6 @@ Common error types handled:
 - Negative values
 - Minimum wage violations
 
-## License
-
-This project is licensed under the MIT License.
-
----
-Developed by Ahmed Gara Ali
-
 ## Personal Practice Objectives
 
 This project was intentionally designed as a hands-on exercise to practice core Object-Oriented Programming concepts in Java:
@@ -142,3 +135,5 @@ This project was intentionally designed as a hands-on exercise to practice core 
 - **Custom Exceptions**: Domain-specific error signaling (`MinimumWageException`, etc.) clarifies validation paths.
 - **Single Responsability Principle**: Each class has a focused purpose (data model, tax calculation, error handling).
 
+---
+Developed by Ahmed Gara Ali
